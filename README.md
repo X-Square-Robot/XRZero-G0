@@ -1,1 +1,1 @@
-# XRZero-G0: Pushing the Frontier of DexterousRobotic Manipulation with Interfaces, Quality andRatios
+# XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios
