@@ -10,10 +10,10 @@
 
 ---
 ## ✨ Highlights
-*   🕹️ **Ergonomic Decoupled Interface:** Replaces traditional SLAM-based handhelds with a backpack-powered VR rig (PICO 4) and specialized dual-mode grippers. Eliminates tracking drift and reduces operator fatigue.
-*   🛡️ **Closed-Loop Quality Verification:** A rigorous pipeline featuring visual cleansing and Inverse Kinematics (IK) validation, ensuring an **85% data validity rate** before training.
-*   ⚖️ **Empirical Data-Mixing Laws:** Demonstrates the *Few-Shot Physical Anchoring* effect. A **10:1 ratio** (massive robot-free data + minimal real-robot data) matches the performance of 100% real-robot data.
-*   🌍 **Zero-Shot Cross-Embodiment:** Generates data natively compatible with leading VLA (Vision-Language-Action) models (e.g., Wall-OSS, $\pi_0$, $\pi_{0.5}$), enabling direct transfer to structurally different dual-arm robots (CX001 & EX001).
+*   🕹️ **Ergonomic Decoupled Interface** 
+*   🛡️ **Closed-Loop Quality Verification** 
+*   ⚖️ **Empirical Data-Mixing Laws** 
+*   🌍 **Zero-Shot Cross-Embodiment** 
 ---
 
 ---
