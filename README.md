@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > **XRZero-G0** is a hardware-software co-designed framework for scalable, high-fidelity, and ergonomic robot-free data collection. By systematically addressing the "quality black-box" and establishing empirical **Data Mixing Laws**, XRZero-G0 achieves performance comparable to purely real-robot datasets at **1/20th of the acquisition cost**.
 <div align="center">
-  <img src="imgs/head.pdf" alt="XRZero-G0 Teaser" width="100%">
+  <img src="imgs/head.png" alt="XRZero-G0 Teaser" width="100%">
   <p><em>Figure 1: XRZero-G0 enables scalable robot-free data collection and cross-embodiment policy transfer.</em></p>
 </div>
 
