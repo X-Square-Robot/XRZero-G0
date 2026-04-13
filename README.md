@@ -14,7 +14,7 @@
 *   🛡️ **Closed-Loop Quality Verification** 
 *   ⚖️ **Empirical Data-Mixing Laws** 
 *   🌍 **Zero-Shot Cross-Embodiment** 
----
+
 
 ---
 ## 📦 The G0-Dataset
