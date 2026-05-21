@@ -1,4 +1,5 @@
-# XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation 🚀
+# 🚀 XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios
+ 
 
 <p align="center">
   <a href="https://x2robot.com/x2go"><img src="https://img.shields.io/badge/Homepage-x2robot.com-brightgreen" height="28"></a>
