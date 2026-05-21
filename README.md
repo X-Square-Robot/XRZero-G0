@@ -1,10 +1,12 @@
 # XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation 🚀
 
-[![Homepage](https://img.shields.io/badge/Homepage-x2robot.com-brightgreen)](https://x2robot.com/x2go)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2604.13001)
-[![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/X-Square-Robot/XRZero-G0)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-blue)](https://huggingface.co/datasets/x-square-robot/XRZero-G0-3K)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://x2robot.com/x2go"><img src="https://img.shields.io/badge/Homepage-x2robot.com-brightgreen" height="28"></a>
+  <a href="https://arxiv.org/abs/2604.13001"><img src="https://img.shields.io/badge/Paper-arXiv-red" height="28"></a>
+  <a href="https://github.com/X-Square-Robot/XRZero-G0"><img src="https://img.shields.io/badge/Code-GitHub-black" height="28"></a>
+  <a href="https://huggingface.co/datasets/x-square-robot/XRZero-G0-3K"><img src="https://img.shields.io/badge/Dataset-HuggingFace-blue" height="28"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" height="28"></a>
+</p>
 
 > **XRZero-G0** is a hardware-software co-designed framework for scalable, high-fidelity, and ergonomic robot-free data collection. By systematically addressing the "quality black-box" and establishing empirical **Data Mixing Laws**, XRZero-G0 achieves performance comparable to purely real-robot datasets at **1/20th of the acquisition cost**.
 
